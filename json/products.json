@@ -1,0 +1,71 @@
+{
+   "products": [
+      {
+         "id": 5,
+         "url": "#",
+         "title": "Освещение",
+         "text": "Торшер Астро",
+         "labels": "",
+         "image": "05.jpg",
+         "price": "1 170",
+         "priceOld": "",
+         "shareUrl": "",
+         "likeUrl": ""
+      },
+      {
+			"id": 6,
+			"url": "#",
+			"title": "Письменные столы",
+			"text": "Письменный стол Loft design Q-135",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "06.jpg",
+			"price": "3 590",
+			"priceOld": "7 090",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Полка настенная",
+			"text": "Полка PL-2-16 Loft Design",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				}
+			],
+			"image": "07.jpg",
+			"price": "1 190",
+			"priceOld": "2 380",
+			"shareUrl": "",
+			"likeUrl": ""
+		},
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Кухонная мебель",
+			"text": "Кухонный стол River",
+			"labels": [
+				{
+					"type": "new",
+					"value": "New"
+				}
+			],
+			"image": "08.jpg",
+			"price": "22.000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		}
+   ]
+}
